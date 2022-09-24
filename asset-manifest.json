@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skionetizy-practicle/static/css/main.073c9b0a.css",
+    "main.js": "/skionetizy-practicle/static/js/main.9ab1abae.js",
+    "static/js/787.a0887073.chunk.js": "/skionetizy-practicle/static/js/787.a0887073.chunk.js",
+    "index.html": "/skionetizy-practicle/index.html",
+    "main.073c9b0a.css.map": "/skionetizy-practicle/static/css/main.073c9b0a.css.map",
+    "main.9ab1abae.js.map": "/skionetizy-practicle/static/js/main.9ab1abae.js.map",
+    "787.a0887073.chunk.js.map": "/skionetizy-practicle/static/js/787.a0887073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9ab1abae.js"
+  ]
+}
